@@ -1,5 +1,5 @@
 # Docker中链接mongodb
-## 1.docker exec -it 容器名称 image名称
+## 1.docker exec -it 容器名称 image名称+sh
 ## 2.use admin
 ## 3.db.auth('root','example') example为密码，创建用户的密码
 ## 4.show dbs 查看所有的mongodb用户
